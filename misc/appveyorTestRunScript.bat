@@ -1,4 +1,5 @@
-cd Build
+cd Build\Tests
+echo
 if "%CONFIGURATION%"=="Debug" (
   ctest -j 2 -C %CONFIGURATION%
 )
