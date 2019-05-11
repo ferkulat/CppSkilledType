@@ -1,3 +1,6 @@
+master: [![Build Status](https://travis-ci.org/ferkulat/CppSkilledType.svg?branch=master)](https://travis-ci.org/ferkulat/CppSkilledType)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/ferkulat/CppSkilledType?brach=master&svg=true)](https://ci.appveyor.com/project/ferkulat/CppSkilledType)
+
 # CppSkilledType
 This a header only library for creating type safe wrappers around primitive types.
 
