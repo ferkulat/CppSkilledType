@@ -77,7 +77,7 @@ before_build:
 build_script:
   - cd Build
   - cmake  ..
-  - cmake --build Tests --config %CONFIGURATION% --target CppSkilledTypeTests -j 2
+  - cmake --build Tests --config %CONFIGURATION% --target CppSkilledTypeTests
 
 test_script:
   - set CTEST_OUTPUT_ON_FAILURE=1
